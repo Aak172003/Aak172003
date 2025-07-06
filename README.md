@@ -36,7 +36,7 @@ SDE - 1 · Noida Sector 135, India
 * 🔧 **Optimized application performance** by 50% through database query optimization, server-side caching strategies, and efficient resource management, leading to faster response times.
 * 🔧 **Established a centralized logging and monitoring system**, storing all logs in structured files to streamline debugging and support engineering teams.
 * 🔧 **Implemented a centralized AWS S3 bucket for multiple projects (3+) at MoonDive**, enabling secure document storage and retrieval. **Developed reusable functions for managing files and configured policies** for access control, cost optimization, and scalability.
-* Ensured stringent data integrity standards by **integrating rigorous input field validations across multiple projects**, improving user interactions significantly and reducing errors by 40%.
+* 🔧 Ensured stringent data integrity standards by **integrating rigorous input field validations across multiple projects**, improving user interactions significantly and reducing errors by 40%.
 
 ## ❤️ I'm Code on (DSA)
 
